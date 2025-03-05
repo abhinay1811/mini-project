@@ -1,1 +1,5 @@
-# mini-project
+<<<<<<< HEAD
+Your local changes
+=======
+Changes from GitHub
+>>>>>>> c7770fa
