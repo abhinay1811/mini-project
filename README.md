@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Your local changes
-=======
-Changes from GitHub
->>>>>>> c7770fa
+https://2211cs040002.bytexl.live/
